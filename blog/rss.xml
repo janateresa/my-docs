@@ -77,9 +77,9 @@
             <link>https://janateresa.github.io/my-docs/blog/first-blog-post</link>
             <guid>https://janateresa.github.io/my-docs/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello!]]></description>
-            <content:encoded><![CDATA[<p>Hello!</p>
-<p>...  this is my first blog post, but I will probably update it with an "official" first post in a bit.</p>]]></content:encoded>
+            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
+            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
             <category>Hola</category>
             <category>Docusaurus</category>
         </item>
