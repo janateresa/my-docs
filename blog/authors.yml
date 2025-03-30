@@ -1,12 +1,12 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+janateresa:
+  name: Jana S
+  title: Person Trying to Figure this Out
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: janateresa
+    github: janateresa
 
 slorber:
   name: Sébastien Lorber

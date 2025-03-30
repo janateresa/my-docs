@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [slorber, yangshun]
+authors: [janateresa]
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
+Hello!
 
 <!-- truncate -->
 
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+...  this is my first blog post, but I will probably update it with an "official" first post in a bit. 

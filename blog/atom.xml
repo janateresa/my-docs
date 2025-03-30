@@ -31,7 +31,7 @@
             <uri>https://sebastienlorber.com</uri>
         </author>
         <author>
-            <name>Yangshun Tay</name>
+            <name>Jana S</name>
             <uri>https://github.com/yangshun</uri>
         </author>
         <category label="Facebook" term="Facebook"/>
@@ -81,7 +81,7 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
         <author>
-            <name>Yangshun Tay</name>
+            <name>Jana S</name>
             <uri>https://github.com/yangshun</uri>
         </author>
         <category label="Hello" term="Hello"/>
@@ -92,15 +92,11 @@
         <id>https://janateresa.github.io/my-docs/blog/first-blog-post</id>
         <link href="https://janateresa.github.io/my-docs/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[Hello!]]></summary>
+        <content type="html"><![CDATA[<p>Hello!</p>
+<p>...  this is my first blog post, but I will probably update it with an "official" first post in a bit.</p>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
+            <name>Jana S</name>
             <uri>https://github.com/yangshun</uri>
         </author>
         <category label="Hola" term="Hola"/>
