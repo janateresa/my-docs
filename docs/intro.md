@@ -2,46 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to My Tech Learning Journey! I'm a technical writer and curriculum developer with a passion for making complex tech concepts accessible. With experience in cloud computing, automation, and data analytics, I’ve worked on training programs for major companies like Intel and Google. Now, I’m using AI to enhance my learning process—breaking down new technologies, tracking my progress, and sharing insights along the way. This site is my personal knowledge base - I also really miss writing for fun -  and a space for others looking to learn alongside me. Let’s explore tech together!
 
-## Getting Started
+## What I'm Working On
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+I have to admit that my interests when it comes to tech - and life! - are extremely varied, but some of the things that I'm working on right now:
+- A course in API documentation
+- Learning to deploy my own site (this one!)
+- Python 
