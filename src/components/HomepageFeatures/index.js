@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        What happens if I type something else here?
+        What happens if I type something else here? Then, if I make some more changes.
       </>
     ),
   },
